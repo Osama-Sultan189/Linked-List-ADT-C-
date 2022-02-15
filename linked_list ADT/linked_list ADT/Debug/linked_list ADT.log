@@ -1,0 +1,6 @@
+﻿  linked_list.cpp
+  Source.cpp
+  Generating Code...
+E:\BS 4rth Semester\Data Structures and algorithms\Labs\linked_list ADT\linked_list ADT\linked_list.cpp(185): warning C4715: 'LinkedList<int>::deleteAfter': not all control paths return a value
+E:\BS 4rth Semester\Data Structures and algorithms\Labs\linked_list ADT\linked_list ADT\linked_list.cpp(219): warning C4715: 'LinkedList<int>::deleteBefore': not all control paths return a value
+  linked_list ADT.vcxproj -> E:\BS 4rth Semester\Data Structures and algorithms\Labs\linked_list ADT\Debug\linked_list ADT.exe
